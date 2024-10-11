@@ -8,3 +8,5 @@ Le CV READER est destiné à une distribution et lecture digitale.
 Le CV PRINTER est destiné à l'impression sur papier ou une préférence de lecture. 
 
 Les deux CV sont accompagnés de leurs scripts LaTeX respectifs. Ils peuvent être compilés. 
+
+Téléchargement : github.com/bastien-data/cv/releases/tag/release/latest
