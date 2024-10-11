@@ -9,4 +9,4 @@ Le CV PRINTER est destiné à l'impression sur papier ou une préférence de lec
 
 Les deux CV sont accompagnés de leurs scripts LaTeX respectifs. Ils peuvent être compilés. 
 
-Téléchargement : github.com/bastien-data/cv/releases/tag/release/latest
+Téléchargement : https://github.com/bastien-data/cv/releases/tag/release
